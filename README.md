@@ -64,7 +64,7 @@ This tool solves that by converting raw income and expenses into *clear financia
 ### 🧾 Financial Report View
 Shows income, expenses, savings, and AI-generated financial advice.
 
-![Financial Report](budget_optimizer/view&report.jpeg)
+![Financial Report](https://github.com/Stellabigeal/budget_optimizer/blob/main/view%20%26%20report.jpeg)
 
 ---
 
