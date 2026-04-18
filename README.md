@@ -71,7 +71,7 @@ Shows income, expenses, savings, and AI-generated financial advice.
 ### 📊 Charts & Visual Dashboard
 Shows expense breakdown and income vs expenses comparison.
 
-![Charts Dashboard]([budget_optimizer/charts.jpeg](https://github.com/Stellabigeal/budget_optimizer/blob/main/charts.jpeg))
+![Charts Dashboard](https://github.com/Stellabigeal/budget_optimizer/blob/main/charts.jpeg)
 
 ---
 
