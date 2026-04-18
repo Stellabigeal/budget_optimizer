@@ -64,14 +64,14 @@ This tool solves that by converting raw income and expenses into *clear financia
 ### 🧾 Financial Report View
 Shows income, expenses, savings, and AI-generated financial advice.
 
-![Financial Report](screenshots/view&report.jpeg)
+![Financial Report](budget_optimizer/view&report.jpeg)
 
 ---
 
 ### 📊 Charts & Visual Dashboard
 Shows expense breakdown and income vs expenses comparison.
 
-![Charts Dashboard](screenshots/charts.jpeg)
+![Charts Dashboard](budget_optimizer/charts.jpeg)
 
 ---
 
